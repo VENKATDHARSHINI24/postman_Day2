@@ -23,7 +23,7 @@ Each API call is tested in Postman, and screenshots are included.
 Returns all available users.
 
 #### 📸 Screenshot  
-![GET Request](IMAGE_URL_1)
+![GET Request](Screenshot 2025-12-09 194311.png)
 
 ---
 
