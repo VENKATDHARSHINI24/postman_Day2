@@ -11,21 +11,18 @@ It includes all four major API operations: **GET, POST, PUT, DELETE**.
 ---
 
 ## 🟩 POST — Create a new user  
-![POST Request](YOUR_POST_IMAGE_URL_HERE)
+![POST Request](https://github.com/VENKATDHARSHINI24/postman_Day2/blob/main/Screenshot%202025-12-09%20194356.png)
 ---
 ## 🟧 PUT — Update an existing user  
-![PUT Request]()
+![PUT Request](https://github.com/VENKATDHARSHINI24/postman_Day2/blob/main/Screenshot%202025-12-09%20194445.png)
 
 ---
 ---
-
 ## 🟥 DELETE — Remove a user  
-![DELETE Request](YOUR_DELETE_IMAGE_URL_HERE)
-
-### **DELETE API**
+![DELETE Request](https://github.com/VENKATDHARSHINI24/postman_Day2/blob/main/Screenshot%202025-12-09%20194514.png)
 
 
 
 
-### **PUT API**
+
 
