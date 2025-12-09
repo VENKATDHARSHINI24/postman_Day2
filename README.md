@@ -7,14 +7,14 @@ It includes all four major API operations: **GET, POST, PUT, DELETE**.
 ---
 
 ## 🟦 GET — Fetch all users  
-![GET Request](YOUR_GET_IMAGE_URL_HERE)
+![GET Request](https://github.com/VENKATDHARSHINI24/postman_Day2/blob/main/Screenshot%202025-12-09%20194311.png)
 ---
 
 ## 🟩 POST — Create a new user  
 ![POST Request](YOUR_POST_IMAGE_URL_HERE)
 ---
 ## 🟧 PUT — Update an existing user  
-![PUT Request](YOUR_PUT_IMAGE_URL_HERE)
+![PUT Request]()
 
 ---
 ---
